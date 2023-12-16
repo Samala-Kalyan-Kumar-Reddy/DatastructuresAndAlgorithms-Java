@@ -2,6 +2,7 @@
 # Data Structures and Algorithm Problems in Java
 
 This repository contains a collection of data structures and algorithm problems solved in Java. The problems are organized by topic, and each problem has a separate Java file with the solution.
+Switch branch according to the topics you need to study
 
 ## How to Use
 
@@ -11,6 +12,7 @@ To use this repository, simply clone it to your local machine and open it in an 
 
 * **Arrays**
 * **Hashing**
+ * **TwoPointers**
 
 
 ## License
